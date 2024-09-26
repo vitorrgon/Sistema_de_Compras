@@ -1,0 +1,10 @@
+4563,Lapiz,R$3.50
+7563,caneta,R$4.50
+3242,borracha,R$5.00
+4631,corretivo,R$4.50
+3230,corretivo,R$9.50
+8721,Caneta em Gel,R$4.50
+8732,Caderno,R$10.50
+8342,Kit 5 Agendas,R$45.00
+9124,Kit 6 Canetas Esfer.,R$8.00
+8567,Bloco de Notas,R$6,50
